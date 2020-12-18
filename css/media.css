@@ -1,0 +1,86 @@
+@media(max-width: 1399px){
+	.banner-section .banner-content h1{
+    font-size: 49px;
+	}
+	.banner-content h4{
+		font-size: 16px;
+	}
+	.banner-content{
+    padding-top: 220px;
+    padding-bottom: 90px;
+	}
+}
+
+
+@media(max-width: 1199px){
+	.banner-section .banner-content h1{
+    font-size: 49px;
+	}
+	.banner-content h4{
+		font-size: 16px;
+	}
+	.banner-content{
+    padding-top: 200px;
+    padding-bottom: 80px;
+	}
+	.banner-content p{
+		font-size: 14px;
+	}
+
+}
+
+
+@media(max-width: 991px){
+	.banner-section .banner-content h1{
+    font-size: 42px;
+	}
+	.banner-content h4{
+		font-size: 15px;
+	}
+	.banner-content p{
+		font-size: 14px;
+	}
+	.programs-section .programs{
+		padding-top: 0 !important;
+	}
+
+}
+@media(max-width: 767px){
+	.banner-section .banner-content h1{
+    font-size: 33px;
+	}
+	.start-now-button{
+		font-size: 14px;
+	}
+	.request-a-demo{
+		font-size: 14px;
+	}
+	iframe{
+		width: 400px;
+		height: 250px;
+	}
+}
+
+@media(max-width: 575px){
+
+	.banner-content p{
+		font-size: 12px;
+	}
+	.banner-section .banner-content h1{
+		font-size: 25px;
+	}
+	.border-right-1{
+	border-right: 0;
+	}
+	.learning-content h1{
+		font-size: 25px;
+	}
+	.learning-content a{
+		font-size: 14px !important;
+	}
+	iframe{
+		width: 300px;
+		height: 250px;
+	}
+
+}
